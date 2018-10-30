@@ -3,9 +3,9 @@ GMS Introduction to Statistics
 
 Suggested Software
 ----------------------
-1. Anaconda3 (for python3 notebooks)
-2. R
-3. Software for Spreadsheet
+1. [Anaconda3 (for python3 notebooks)](https://www.anaconda.com/download/)
+2. [R](https://www.r-project.org/)
+3. Any spreadsheet software (optional)
 
 Blocks
 --------
@@ -24,6 +24,6 @@ Timetable
 
 Online Resources
 ----------------
-* [The Python Tutorial](https://docs.python.org/3.6/tutorial/index.html)
+* [Python Tutorial](https://www.codecademy.com/learn/learn-python)
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Nature Methods Points of Significance Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
