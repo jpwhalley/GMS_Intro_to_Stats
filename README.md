@@ -28,3 +28,4 @@ Online Resources
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Nature Methods Points of Significance Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 * [Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/#biplot)
+*[Power analysis in R](https://www.statmethods.net/stats/power.html)

@@ -109,13 +109,21 @@ print(pwr.t.test(type = "two.sample", d = eff, sig.level = sig, power = pow))
 # clinically significant, with pooled standard deviation of 50 with measurements normally distributed. What  sample 
 # size  of  is  required for  alpha level p = 0.05 and  power 80%? 
 
-
+eff = 40 / 50
+sig = 0.05
+pow = .8
+  
+print(pwr.t.test(type = "paired", d = eff, sig.level = sig, power = pow))
 
 # How many samples would we need for alpha level p = 0.01
-
+sig = 0.01
+print(pwr.t.test(type = "paired", d = eff, sig.level = sig, power = pow))
 
 # As a result of the poor response/dropout rate, only 12 patients were recruited. A mean difference of 50 and pooled 
 # SD of 60  mg/dl were found. What is the power for this study?
 
-
+eff = 50 / 60
+sig = 0.05
+num = 12
+print(pwr.t.test(type = "paired", d = eff, sig.level = sig, n = num))
 
