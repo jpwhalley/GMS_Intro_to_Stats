@@ -3,8 +3,12 @@ GMS Introduction to Statistics
 
 Suggested Software
 ----------------------
-1. [Anaconda3 (for python3 notebooks)](https://www.anaconda.com/download/)
-2. [R](https://www.r-project.org/)
+1. [Anaconda3 (for python3 notebooks)](https://www.anaconda.com/download/) with the following packages:
+	a. adjusttext - can install using `pip install adjusttext`
+2. [R](https://www.r-project.org/) with the following packages:
+	a. FactoMineR - `install.packages("FactoMineR")` and factoextra - `install.packages("factoextra")`
+	b. XGR - `install.packages("XGR")`
+	c. pwr - `install.packages("pwr")`
 3. Any spreadsheet software (optional)
 
 Blocks
